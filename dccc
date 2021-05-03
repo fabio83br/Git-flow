@@ -1,0 +1,18 @@
+[33mcommit 8bb53ebae50ea1e885a4947f595a5866d840c71e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: celular[m[33m)[m
+Merge: 4ededa9 501a6ec
+Author: Fábio <fabiosp11@hotmail.com>
+Date:   Mon May 3 14:03:49 2021 -0300
+
+    Merge branch 'release/celular'
+
+[33mcommit 501a6ec10883be649c65c717d047c6dea3d3a7cd[m
+Author: Fábio <fabiosp11@hotmail.com>
+Date:   Mon May 3 13:13:29 2021 -0300
+
+    adicionado git start
+
+[33mcommit 4ededa9a28756222bd4afd882a3788a8739671d3[m
+Author: Fábio <fabiosp11@hotmail.com>
+Date:   Mon May 3 13:03:49 2021 -0300
+
+    Initial commit
